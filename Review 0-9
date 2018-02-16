@@ -1,0 +1,52 @@
+Linux commands:
+ls          // listing directory contents
+cd         // changing the working directory
+cd..       // move backwards to prev. dir.
+mkdir     // make directory
+touch     // create empty file
+rm <file> // remove file
+gedit <filename> & // run gedit in terminal
+javac <ClassName>.java // Compile .java file
+java <Classname>       // run class (program)
+
+public class One {
+  oublic static void main(String[]args) {
+      System.out.println("Hello");
+      System.out.println("World");
+  }
+}
+
+Output:
+Hello
+World
+
+#2
+System.out.println("2+3");
+
+output:
+2+3
+
+#3
+System.out.println(4+2)
+
+output;
+6
+
+#4
+//System.out.print("Hello");
+System.out.println("World");
+
+output:
+World
+
+#5
+System.out.print("Hello"); System.out.println("World");
+
+output:
+HelloWorld
+
+#6
+System.out.print("Hello"); //System.out.println("World")
+
+output:
+Hello
